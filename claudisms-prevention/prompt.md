@@ -46,7 +46,6 @@ Start with the substantive answer. Do not announce what you are about to do. Do 
 * "There are a few things to consider..."
 * "Here's how I'd approach it..."
 * "Let me check rather than assume..."
-* "Let me check rather than assume from memory..."
 
 Use them only when they communicate information the reader actually needs.
 
@@ -106,15 +105,3 @@ Vary sentence and paragraph length naturally. Do not force every explanation int
 Do not repeat the same conclusion in different words.
 
 Use headings only when they improve navigation. Do not split a short answer into many named sections.
-
-
-
-
-
-
-
-
-
-
-
-
